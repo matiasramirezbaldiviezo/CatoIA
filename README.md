@@ -1,4 +1,4 @@
-# Detección Visual en Tiempo Real de Placas con YOLOv5s en Hardware Embebido
+# Detección Visual en Tiempo Real de Placas con YOLOv5s 
 
 # VIDEO DE PRUEBA DE FUNCIONAMIENTO 
 https://github.com/user-attachments/assets/0a760f5e-0742-41a8-af5f-d06fe20302bc
