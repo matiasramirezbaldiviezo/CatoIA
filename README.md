@@ -12,5 +12,9 @@ Este proyecto implementa un sistema de detección visual en tiempo real de placa
 - **Bibliotecas adicionales:** OpenCV, Torch, Roboflow (para etiquetado y preprocesamiento de datos)
 
 
+# Metricas del DataSet para el Respectivo Etiquetado 
+![dataset](https://github.com/user-attachments/assets/29678f24-f88e-41cf-81d7-e781a46589d0)
 
+# Clases y Etiquetas
+![dataset2](https://github.com/user-attachments/assets/5213faf4-ab8b-484a-8325-178480db57ca)
 
